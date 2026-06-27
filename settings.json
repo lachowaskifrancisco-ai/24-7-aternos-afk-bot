@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Panusmp.aternos.me",
+    "port": 20730,
     "version": "1.20.1",
     "try-creative": false
   },
